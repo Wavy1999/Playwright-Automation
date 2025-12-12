@@ -32,13 +32,13 @@ This repository contains an end-to-end test automation framework built using Mic
 ▶️ Running Tests
 
     1. Run all tests
-      npx playwright test
+        npx playwright test
 
     2. Run tests with UI mode
-      npx playwright test --ui
+        npx playwright test --ui
 
     3. Run a specific test file
-      npx playwright test tests/example.spec.ts
+        npx playwright test tests/example.spec.ts
 
     4. Run headed mode (visible browser)
         npx playwright test --headed
