@@ -2,15 +2,23 @@
 This repository contains an end-to-end test automation framework built using Microsoft Playwright. The project is designed to provide reliable, scalable, and maintainable UI automation for modern web applications
 
 🚀 Features
+
 ✔️ Cross-browser testing (Chromium, Firefox, WebKit)
+
 ✔️ Page Object Model (POM) structure
+
 ✔️ Auto-generated HTML reports
+
 ✔️ Video, trace, and screenshot capture
+
 ✔️ Environment-based configurations
+
 ✔️ Easy integration with CI/CD (GitHub Actions)
+
 ✔️ Supports TypeScript/JavaScript (choose your setup)
 
 📦 Installation
+
     1. Clone the Repository
        git clone https://github.com/<your-username>/<repo-name>.git
        cd <repo-name>
@@ -22,6 +30,7 @@ This repository contains an end-to-end test automation framework built using Mic
         npx playwright install
 
 ▶️ Running Tests
+
     1. Run all tests
       npx playwright test
 
